@@ -12,8 +12,8 @@
 
     "repository": "https://github.com/Praneet1875mt/Renamer",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "http://t.me/Praneetrenamebot",
+    "success_url": "http://t.me/Praneetrenamebot",
 
     "env": {
         "API_HASH": {
